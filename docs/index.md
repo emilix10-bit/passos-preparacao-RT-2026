@@ -13,21 +13,21 @@
 
 # 8 cuidados para preparar as compras públicas para a Reforma Tributária
 
-A Reforma Tributária traz mudanças que podem afetar o planejamento, a formação de preços e a execução dos contratos públicos. Confira oito cuidados que podem ajudar os órgãos e entidades a se preparar para a transição.
+A Reforma Tributária traz mudanças que podem afetar o planejamento, a formação de preços e a execução dos contratos públicos. Confira oito cuidados que podem ajudar os órgãos e entidades a se preparar para a transição. Eles estão listados nas seções abaixo.
 
 ---
 
 <span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
 
-Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas ou o manual completo.
+Você pode acessar abaixo as recomendações específicas por tema ou ver o passo a instrução completa, com todas as oito recomendações. Você também pode acessar a lista completa de recomendações. Cada uma das páginas pode ser impressa ou baixada em PDF.
 
-* **Padrão - escolha a seção específica que quer acessar:**
+* **Escolha um tema com passos específicos:**
   * [1. Planejamento, Pesquisa e Propostas](01-planejamento.md)
   * [2. Contratos e Atas Vigentes](02-contratos.md)
   * [3. Gestão, Execução e Pagamentos](03-gestao.md)
 
 * **Página única:**
-  * [Todo o manual em uma tela](manual-completo.md)
+  * [Todas as recomendações em uma tela](manual-completo.md)
 
 <div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
