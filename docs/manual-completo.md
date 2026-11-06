@@ -9,223 +9,76 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: FORNECEDORES</p>
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: ÓRGÃOS E ENTIDADES PÚBLICAS</p>
 
-# Como participar de uma convocação de remanescentes no Compras.gov.br
+# 8 cuidados para preparar as compras públicas para a Reforma Tributária
 
-Utilize o sistema Compras.gov.br para participar de uma convocação de remanescentes em processos de contratação. Após a homologação de um processo do qual você participou e não venceu, é possível participar de convocações de remanescentes iniciadas pelo órgão contratante.
-
-<br>
-
-# ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
-
-**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”. 
-
-![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
-
-**Passo 2:** Escolha o perfil **Fornecedor Nacional** e clique em “Entrar com Gov.br”.
-
-![Tela 02](Imagens/tela02-acesso-fornecedor-nacional.png)
-
-Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para acessar o sistema.
-
-![Tela 03](Imagens/tela03-acesso-fornecedor-estrangeiro.png)
-
-**Passo 3:** No menu “Compras”, acesse a opção “Licitação e dispensas (novo)”.
-
-![Tela 04](Imagens/tela04-acesso-a-area-do-fornecedor.png)
-
-**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita) (tela 05)
-
-![Tela 05](Imagens/tela05-acesso-pela-area-de-notificacoes.png)
-
-ou usando a pesquisa na aba “Todas as Compras”, procurando pelo número da contratação desejada.
-
-![Tela 06](Imagens/tela06-acesso-pela-area-de-pesquisa.png)
-
-**Passo 5:** Acesse a contratação clicando na opção “Acompanhar compra”.
-
-![Tela 07](Imagens/tela07-acompanhar-contratacao.png)
-
-**Passo 6:** Acesse a linha do tempo da contratação em **Remanescentes**.
-
-![Tela 08](Imagens/tela08-linha-do-tempo-remanescentes.png)
+A Reforma Tributária traz mudanças que podem afetar o planejamento, a formação de preços e a execução dos contratos públicos. Confira oito cuidados que podem ajudar os órgãos e entidades a se preparar para a transição.
 
 <br>
 
-# MANIFESTANDO INTERESSE EM PARTICIPAR DE UMA CONVOCAÇÃO DE REMANESCENTES
+# 1. PLANEJAMENTO, PESQUISA E PROPOSTAS
 
-A convocação de remanescentes acontecerá em duas etapas sucessivas:
+**1. Revise as pesquisas de preços para contratações com execução durante a transição**
 
-* Aceite, para assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
-* Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
+Os preços pesquisados antes da transição podem considerar regras tributárias diferentes daquelas que estarão em vigor durante a execução do contrato. Por isso, sempre que possível, identifique os tributos incluídos nos preços pesquisados e o regime tributário dos fornecedores.
 
-**Passo 1:** Para formalizar sua intenção de participar em uma convocação de remanescentes, selecione o item em que deseja atuar e clique em “Operar item”.
+**2. Registre as premissas tributárias no planejamento**
 
-![Tela 09](./Imagens/tela09-operar-item.png)
+Descreva com clareza os serviços, materiais e demais insumos envolvidos na contratação. 
 
-**Passo 2:** Leia as informações sobre o item, pois os valores podem ser atualizados.
+!!! tip "Dica"
+    Quando necessário, utilize a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS) e a Nomenclatura Comum do Mercosul/Sistema Harmonizado (NCM/SH) para ajudar a identificar o tratamento tributário aplicável.
 
-![Tela 10](./Imagens/tela10-informacoes-do-item.png)
+**3. Dê atenção à formação e à análise das propostas**
 
-**Passo 3:** No campo “Proposta”, será solicitada a manifestação interesse em participar da convocação de remanescentes na condição atual.
-
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
+A composição do preço pode variar conforme o regime tributário do licitante e as características da operação. Por isso, mantenha registradas as informações tributárias relevantes para a análise das propostas. Quando necessário, avalie a participação das áreas especializadas.
 
 <br>
 
-# CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR
+# 2. CONTRATOS E ATAS VIGENTES
 
-O processo de convocação de remanescentes começa pela oportunidade de assumir o contrato nas mesmas condições do fornecedor. Para manifestar se aceita ou assumir o contrato pelas condições do vencedor, siga as instruções abaixo:
+**4. Mapeie os contratos vigentes, inclusive os que estão sem dedicação exclusiva de mão de obra**
 
-**Passo 01:** No cabeçalho do campo proposta, será indicado o prazo para manifestação de interesse de fornecer pelas condições do vencedor. Revise as informações sobre as condições da contratação e selecione a opção desejada.
+Identifique os contratos em andamento, inclusive aqueles sem dedicação exclusiva de mão de obra. Organize as propostas, as planilhas e os demais documentos que mostram como os preços foram calculados. Reúna também os registros das alterações contratuais e as informações sobre o regime tributário considerado na formação dos preços.
 
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
+Se os documentos não apresentarem detalhes suficientes, poderá ser necessário buscar informações complementares para avaliar os efeitos da Reforma Tributária.
 
-Confirme sua opção
+**5. Examine as atas de registro de preços e os fornecimentos com entrega imediata**
 
-![Tela 12](./Imagens/tela12-confirmar-opcao.png)
+As atas de registro de preços formadas sob as regras do Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (Cofins) podem reunir itens e fornecedores afetados de maneiras diferentes pela Reforma Tributária.
 
-**Passo 02:** Durante o prazo de manifestação indicado, você poderá alterar sua opção. Selecione a nova opção.
+Nas contratações decorrentes dessas atas, avalie a vantajosidade conforme as condições de cada item e fornecedor. Não presuma que a mudança tributária exige o mesmo ajuste para todos os preços.
 
-![Tela 13](./Imagens/tela13-alterar-opcao.png)
+Nos fornecimentos com entrega imediata, considere a data e as condições da operação. Esse cuidado é especialmente importante quando a contratação, a entrega, o faturamento e o pagamento ocorrem em momentos diferentes da transição.
 
-Confirme.
+**6. Nos contratos com dedicação exclusiva de mão de obra, analise a PCFP além das rubricas tributárias**
 
-![Tela 14](./Imagens/tela14-confirmar-alteracao.png)
+Nos contratos com dedicação exclusiva de mão de obra, a análise deve considerar toda a composição do preço, e não apenas as rubricas de tributos. A mudança vai além da substituição de PIS e Cofins pela Contribuição sobre Bens e Serviços (CBS) e da transição para o Imposto sobre Bens e Serviços (IBS). Considere também os materiais e insumos, os tratamentos tributários aplicáveis e os possíveis efeitos dos créditos tributários.
 
-Quando o prazo do processo finalizar para todos os fornecedores que participaram do processo se manifestarem, o agente de contratação partirá para a etapa de habilitação e julgamento dessa convocação de remanescentes. 
+A Planilha de Custos e Formação de Preços (PCFP) precisará ser adequada às novas regras, mesmo que o valor total do contrato não mude.
 
-**Passo 03:** Acesse o item em convocação de remanescentes selecionando a opção “Operar item”.
+<br>
 
-![Tela 15](./Imagens/tela15-solicitacao-de-envio-de-documentacao.png)
+# 3. GESTÃO, EXECUÇÃO E PAGAMENTOS
 
-Para visualizar quais documentos foram solicitados, acesse a seção “Anexos”.
+**7. Prepare os fluxos de gestão contratual e as equipes envolvidas**
 
-![Tela 16](./Imagens/tela16-upload-de-anexo.png)
+Identifique as unidades envolvidas no planejamento e na gestão dos contratos e prepare as equipes para lidar com as mudanças tributárias. É importante distinguir os efeitos da Reforma Tributária daqueles relacionados a reajustes, repactuações, prorrogações, mudanças no regime tributário da contratada e outros eventos contratuais.
 
-Leia a justificativa e o conteúdo da solicitação e encaminhe os documentos necessários. Para isso, leia os avisos de sistema e declare ciência.
+**8. Dê atenção à execução, ao faturamento e ao pagamento**
 
-![Tela 17](./Imagens/tela17-encerrar-envio-de-anexo.png)
-
-Anexe todos os arquivos clicando no local indicado ou arrastando os arquivos para essa área. Finalize o carregamento de todos os documentos e clique em “Encerrar envio de anexos”.
-
-![Tela 18](./Imagens/tela18-encerrar-envios-de-anexos.png)
-
-**Passo 04:** Para visualizar e responder as mensagens encaminhadas pelo agente de contratação responsável, selecione a seção “Chat”.
-
-![Tela 19](./Imagens/tela19-chat.png)
-
-Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o processo. Preencha a mensagem desejada e clique em “Enviar” para encaminhá-la ao agente de contratação.
-
-![Tela 20](./Imagens/tela20-mensagens.png)
-
-**Passo 05:** Caso a documentação da proposta de fornecimento não atenda aos requisitos de edital, o fornecedor será desclassificado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Desclassificado”.
-
-![Tela 21](./Imagens/tela21-fornecedor-desclassificado.png)
-
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Desclassificado” persistir.
+A prestação do serviço ou o fornecimento do bem, a medição, o aceite, a emissão da nota fiscal, a liquidação e o pagamento podem ocorrer em momentos diferentes. Quando essas etapas acontecerem durante a transição tributária, poderá ser necessário verificar quais regras se aplicam à operação e ajustar os procedimentos e registros da contratação.
 
 !!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
-
-
-**Passo 06:** Caso a documentação de habilitação não atenda aos requisitos de edital, o fornecedor será inabilitado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Inabilitado”.
-
-![Tela 22](./Imagens/tela22-fornecedor-inabilitado.png)
-
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Inabilitado” persistir.
-
-!!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
-
-**Passo 07:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
-
-![Tela 23](./Imagens/tela23-fornecedor-aceito-e-habilitado.png)
-
-**Passo 08:** Para a formalizar o processo, o agente de contratação encerrará a convocação de remanescentes. Assim, ficará na tela a indicação “Situação: Encerrada”.
-
-![Tela 24](./Imagens/tela24-convocacao-encerrada.png)
-
-<br>
-
-# CONVOCAÇÃO POR NEGOCIAÇÃO DE PREÇOS
-
-Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
-
-**Passo 01:** Acesse a contratação com status “Em convocação para negociação”, selecionando o ícone “Operar item”. 
-
-![Tela 25](./Imagens/tela25-negociacao-de-precos.png)
-
-**Passo 02:** No cabeçalho do campo proposta, será indicado o prazo para manifestar interesse para negociar. Revise as informações sobre as condições da contratação e selecione a opção desejada.
-
-![Tela 27](./Imagens/tela27-aceitar-negociacao.png)
-
-Confirme sua opção.
-
-![Tela 28](./Imagens/tela28-confirmar-aceite.png)
-
-**Passo 03:** Durante o prazo de manifestação indicado, você poderá alterar sua opção. Selecione a nova opção
-
-![Tela 29](./Imagens/tela29-alterar-opcao.png)
-
-E confirme a opção.
-
-![Tela 30](./Imagens/tela30-confirmar-alteracao.png)
-
-**Passo 04:** Depois que terminar o prazo para manifestação de todos os fornecedores que participaram do processo, o agente de contratação fará a negociação com o fornecedor mais bem classificado no processo. 
-
-Retorne ao item em convocação acessando a opção “Operar item”.
-
-![Tela 31](./Imagens/tela31-negociacao-iniciada.png)
-
-Acesse a seção “Proposta” para visualizar os detalhes da negociação.
-
-![Tela 32](./Imagens/tela32-negociacao-de-preco.png)
-
-O valor proposto pela administração aparecerá indicado no campo “Valor sugerido”. Você poderá “Desistir de participar pelo valor negociado”, “Confirmar o valor negociado”, ou fazer uma contraproposta.
-
-**Passo 05:** Caso não deseje prosseguir no processo, seleciona “Desistir de participar pelo valor negociado”.
-
-![Tela 33](./Imagens/tela33-opcoes-de-acao.png)
-
-Preencha o campo de justificativa e confirme.
-
-![Tela 34](./Imagens/tela34-desistir-da-negociacao.png)
-
-!!! warning "Atenção"
-    Essa opção não poderá ser desfeita por você, apenas pelo agente de contratação/pregoeiro
-
-**Passo 06:** Caso deseje aceitar o valor proposto pela Administração, preencha o campo “Valor negociado (unitário)” com o valor proposto pelo agente de contratação/pregoeiro e confirme a opção.
-
-![Tela 35](./Imagens/tela35-aceitar-preco-da-adm.png)
-
-**Passo 07:** Caso deseje fazer uma contraproposta, preencha o campo “Valor negociado (unitário)” com o novo valor proposto e confirma e opção.
-
-![Tela 36](./Imagens/tela36-contraproposta.png)
-
-O agente de contratação poderá aceitar sua contraproposta ou iniciar uma nova negociação. Repita esse processo até que cheguem a uma negociação final.
-
-![Tela 37](./Imagens/tela37-contraproposta-enviada.png)
+    Os efeitos da Reforma Tributária podem variar conforme o objeto contratado, a composição do preço, o regime tributário e as características da operação.
+    
+    Por isso, comparar apenas as alíquotas dos tributos antigos e novos não é suficiente para determinar os efeitos econômicos da mudança sobre uma contratação.
 
 !!! note "Nota"
-    Para envio de documentos solicitados para habilitação e julgamento, siga o passo 3 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+    **Saiba mais:** Para conhecer outras orientações sobre os efeitos da Reforma Tributária nas compras públicas, consulte os materiais disponibilizados pela Secretaria de Gestão e Inovação (Seges) na página dedicada ao tema.
 
-    Para envio de mensagens, siga o passo 4 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
-
-    Caso o fornecedor seja desclassificado, leia as informações constantes no passo 5 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
-
-    Caso o fornecedor seja inabilitado, leia as informações constantes no passo 6 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
-
-
-**Passo 08:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Com isso, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
-
-![Tela 38](./Imagens/tela38-aceito-e-habilitado.png)
-
-**Passo 09:** Para a formalização do processo, o agente de contratação deve encerrar a convocação de remanescentes. Com isso, ficará na tela a indicação “Situação: Encerrada”.
-
-![Tela 39](./Imagens/tela39-remanescente-encerrado.png)
-
+<br>
 <div style="text-align: right; margin: 10px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir ou baixar esta página
